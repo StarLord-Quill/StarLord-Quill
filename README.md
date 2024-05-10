@@ -2,6 +2,7 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
   <h3>Exploitation & Mitigation</h3>
+ 
   <h3>Vulnerability Scanning and Penetration Testing</h3>
 
 - <b>NMAP </b>
@@ -11,14 +12,26 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Digital Forensics</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
+
+<h3>Digital Forensics</h3>
+
+- <b>Autopsy</b>
+  - [Example](https://autopsy.com/)
+- <b>FTK Imager</b>
+  - [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager)
+
+<h3>Programming Languages</h3>
+
 - <b>SQL</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
-- <b>OSINT (Open Source Intelligence)</b>
+ 
+<h3>OSINT (Open Source Intelligence)</h3>
+
+- <b>Shodan</b>
   - [Shodan (Datastructures and Algorithms Demo)](https://github.com/)
+- <b>Maltego</b>
   - [Maltego ](https://www.maltego.com/categories/osint/) 
 
 <h2>Certifications</h2>

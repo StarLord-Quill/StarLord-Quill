@@ -14,7 +14,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
 - <b>OSINT (Open Source Intelligence)</b>
   - [Shodan (Datastructures and Algorithms Demo)](https://github.com/)
-  - [Martigo ](https://www.martigo.com/) 
+  - [Maltego ](https://www.maltego.com/categories/osint/) 
 
 <h2>Certifications</h2>
 

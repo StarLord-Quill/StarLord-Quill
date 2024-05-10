@@ -7,11 +7,10 @@
 
 - <b>NMAP </b>
   - [Scanning Networks](https://nmap.org/)
-
 - <b>Wireshark </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b> (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Analysing Packages](https://wireshark.com)
+- <b>Burp Suite</b>
+  - [Burp Suite](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 <h3>Digital Forensics</h3>
 

@@ -12,6 +12,9 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+- <b>OSINT (Open Source Intelligence)</b>
+  - [Shodan (Datastructures and Algorithms Demo)](https://github.com/)
+  - [Martigo ](https://www.martigo.com/) 
 
 <h2>Certifications</h2>
 

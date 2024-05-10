@@ -15,10 +15,10 @@
 
 <h2>Certifications</h2>
 
-- [GFACT](https://www.youtube.com/)
-- [GSEC](https://www.youtube.com/)
-- [GCIH](https://www.youtube.com/)
-- [GCFA](https://www.youtube.com/)
+- [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
+- [GSEC](https://www.giac.org/certifications/security-essentials-gsec/)
+- [GCIH](https://www.giac.org/certifications/certified-incident-handler-gcih/)
+- [GCFA](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/)
 
 <h2> 🤳 Connect with me:</h2>
 

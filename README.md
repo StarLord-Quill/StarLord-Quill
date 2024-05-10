@@ -1,7 +1,17 @@
 <h1>Hi, I'm Lounny! <br/><a href="https://www.linkedin.com/in/lounnyheredia/">Cybersecurity Professional</a>
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
+  
   <h3>Exploitation & Mitigation</h3>
+
+- <b>Metasploit</b>
+  - [Metasploit](https://metasploit.com)
+- <b>John the Ripper</b>
+  - [John the Ripper](https://www.openwall.com/john/)
+- <b>Aircrack-Ng</b>
+  - [Aircrack-Ng](https://www.aircrack-ng.org/)
+
+ 
  
   <h3>Vulnerability Scanning and Penetration Testing</h3>
 

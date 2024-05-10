@@ -1,10 +1,15 @@
 <h1>Hi, I'm Lounny! <br/><a href="https://www.linkedin.com/in/lounnyheredia/">Cybersecurity Professional</a>
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
+  <h3>Exploitation & Mitigation</h3>
+  <h3>Vulnerability Scanning and Penetration Testing</h3>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>NMAP </b>
+  - [Scanning Networks](https://nmap.org/)
+
+- <b>Wireshark </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b> (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Digital Forensics</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
@@ -17,11 +22,12 @@
   - [Maltego ](https://www.maltego.com/categories/osint/) 
 
 <h2>Certifications</h2>
+ <h3>GIAC (Global Information Assurance Certification)</h3>
 
-- [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
-- [GSEC](https://www.giac.org/certifications/security-essentials-gsec/)
-- [GCIH](https://www.giac.org/certifications/certified-incident-handler-gcih/)
-- [GCFA](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/)
+- [GFACT - GIAC Foundational Cybersecurity Technologies](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
+- [GSEC - GIAC Security Essentials](https://www.giac.org/certifications/security-essentials-gsec/) - on progress
+- [GCIH - GIAC Certified Incident Handler Certification](https://www.giac.org/certifications/certified-incident-handler-gcih/) - on progress
+- [GCFA - GIAC Certified Forensic Analyst](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/) - on progress
 
 <h2> 🤳 Connect with me:</h2>
 

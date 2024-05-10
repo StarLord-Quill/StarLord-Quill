@@ -15,7 +15,7 @@
  
   <h3>Vulnerability Scanning and Penetration Testing</h3>
 
-- <b>NMAP </b>
+- <b>Nmap </b>
   - [Scanning Networks](https://nmap.org/)
 - <b>Wireshark </b>
   - [Analysing Packages](https://wireshark.com)

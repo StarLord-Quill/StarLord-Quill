@@ -30,7 +30,7 @@
  
 <h3>Cloud</h3>
 
-- <b>AWS</b>
+- <b>AWS (Amazon Web Services)</b>
   - [AWS VPC Flow Logs](https://github.com/StarLord-Quill/AWS-VPC-Flow-Logs.git/)
 - <b>FTK Imager</b>
   - [FTK Imager](https://www.exterro.com/digital-forensics-software/ftk-imager)
